@@ -1,4 +1,10 @@
 # Project Ideas and Resources ⚡💙⚡
+## 👤 Maintainer
+
+- **Name:** Saii Pallapati  
+- **GitHub:** https://github.com/saiipallapati  
+
+> This repository is a fork/adaptation of the original **AI Resume Analyzer** project for learning and enhancement purposes.
 
 ![head](https://user-images.githubusercontent.com/61475220/97102081-807edc80-16c8-11eb-901c-f7d332efa79c.png)
 
